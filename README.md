@@ -1,4 +1,4 @@
-## Hi there 👋
+## AI Engineer LLC 👋
 
 <!--
 **AIEngineerLLC/AIEngineerLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
